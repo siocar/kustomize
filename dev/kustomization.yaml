@@ -8,7 +8,7 @@ images:
   newTag: 4.0.1-SNAPSHOT
 - name: spring-petclinic
   newName: ghcr.io/siocar/spring-petclinic
-  newTag: ca67e1febad4b7092df6fa0e3840d11b8deba863
+  newTag: 38e5826e74b170af00e54497f6359358cf923973
 
 # Référencer la baseline (réutiliser tous les manifests de base/)
 resources:
